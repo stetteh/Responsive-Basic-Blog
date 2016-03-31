@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+.leftcolumn{
+	background-color: #075AFF;
+	border-color: 1px solid red;
+	text-align: center;
+	color: white;
+}
+#round-img{
+	margin-top: 20%;
+}
+.howde{
+	padding-top: 7%;
+}
+.socialmedia{
+	padding-top: 10%;
+	padding-bottom: 20px;
+	float: right;
+}
+.row{
+	height: 100%;
+}
+.container{
+	letter-spacing: 0.01px;
+	font-family: 'Open Sans', sans-serif;
+}
+h4{
+	font-weight: bold;
+}
+.border1{
+	border: 1px solid white;
+}
